@@ -1,0 +1,15 @@
+D:\cat32tw\Desktop\MethodAdd_Ex4_4\bin\Debug\net6.0\MethodAdd_Ex4_4.exe
+D:\cat32tw\Desktop\MethodAdd_Ex4_4\bin\Debug\net6.0\MethodAdd_Ex4_4.deps.json
+D:\cat32tw\Desktop\MethodAdd_Ex4_4\bin\Debug\net6.0\MethodAdd_Ex4_4.runtimeconfig.json
+D:\cat32tw\Desktop\MethodAdd_Ex4_4\bin\Debug\net6.0\MethodAdd_Ex4_4.dll
+D:\cat32tw\Desktop\MethodAdd_Ex4_4\bin\Debug\net6.0\ref\MethodAdd_Ex4_4.dll
+D:\cat32tw\Desktop\MethodAdd_Ex4_4\bin\Debug\net6.0\MethodAdd_Ex4_4.pdb
+D:\cat32tw\Desktop\MethodAdd_Ex4_4\obj\Debug\net6.0\MethodAdd_Ex4_4.csproj.AssemblyReference.cache
+D:\cat32tw\Desktop\MethodAdd_Ex4_4\obj\Debug\net6.0\MethodAdd_Ex4_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\cat32tw\Desktop\MethodAdd_Ex4_4\obj\Debug\net6.0\MethodAdd_Ex4_4.AssemblyInfoInputs.cache
+D:\cat32tw\Desktop\MethodAdd_Ex4_4\obj\Debug\net6.0\MethodAdd_Ex4_4.AssemblyInfo.cs
+D:\cat32tw\Desktop\MethodAdd_Ex4_4\obj\Debug\net6.0\MethodAdd_Ex4_4.csproj.CoreCompileInputs.cache
+D:\cat32tw\Desktop\MethodAdd_Ex4_4\obj\Debug\net6.0\MethodAdd_Ex4_4.dll
+D:\cat32tw\Desktop\MethodAdd_Ex4_4\obj\Debug\net6.0\ref\MethodAdd_Ex4_4.dll
+D:\cat32tw\Desktop\MethodAdd_Ex4_4\obj\Debug\net6.0\MethodAdd_Ex4_4.pdb
+D:\cat32tw\Desktop\MethodAdd_Ex4_4\obj\Debug\net6.0\MethodAdd_Ex4_4.genruntimeconfig.cache
